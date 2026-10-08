@@ -1,0 +1,25 @@
+# Build directories
+build/
+bin/
+lib/
+*.out
+*.o
+*.a
+*.so
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+compile_commands.json
+.cache/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# ROS2 build artifacts (на будущее)
+install/
+log/
